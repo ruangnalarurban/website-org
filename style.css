@@ -1,0 +1,8 @@
+
+body { font-family: sans-serif; margin: 0; padding: 0; }
+.navbar, footer { background: #f0f0f0; padding: 1rem; }
+.nav-links a, .auth-links a { margin-right: 1rem; }
+.hero { text-align: center; padding: 2rem; background: #ddd; }
+.card-grid { display: flex; gap: 1rem; flex-wrap: wrap; }
+.card { background: white; padding: 1rem; border: 1px solid #ccc; width: 200px; }
+.sidebar { background: #ffcf00; padding: 1rem; }
